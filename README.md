@@ -6,4 +6,4 @@ I am an assistant professor of urban design and analytics at TU Delft, with a ke
 
 🔭  &nbsp; I am passionate about asking (and sometimes answering) spatial and non-spatial research questions, mostly with R.
 
-[![Claudiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=cforgaci)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Claudiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=cforgaci)](https://github.com/anuraghazra/github-readme-stats) -->
