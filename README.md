@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am an assistant professor of urban design and analytics at TU Delft, with a keen interest in understanding how urban analytics driven by spatial-temporal data can improve urban design. 
+I am an assistant professor of urban design and analytics at TU Delft, with a keen interest in understanding how urban analytics driven by spatial-temporal data can improve urban design and planning. 
 
 🌱  &nbsp; I teach and conduct research at the intersections of urban design, urban resilience, and spatial data science, with an interest in the inter- and trans-disciplinary implications of those intersections.
 
